@@ -18,7 +18,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-SERPAPI_KEY = st.secrets["SERPAPI_KEY"],
+SERPAPI_KEY = st.secrets["SERPAPI_KEY"]
 
 # ─────────────────────────────────────────
 # CUSTOM CSS
